@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'app_colors.dart';
 
-class AppFonts {
+class TextStyles {
   static const TextStyle appBarTitle = TextStyle(
     color: AppColors.white,
     fontSize: 18,
